@@ -13,7 +13,7 @@ def calculator():
             choice = input("Enter choice (1/2/3/4 or q to quit): ")
 
             if choice.lower() == 'q':
-                print("👋 Exiting Calculator. Goodbye!")
+                print(" Exiting Calculator. Goodbye!")
                 break
 
             num1 = float(input("Enter first number: "))
